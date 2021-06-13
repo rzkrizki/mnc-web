@@ -1,0 +1,363 @@
+@media screen and (max-width: 767px) {
+
+	.banner-1 {
+		height: 20vh;
+		min-height: 450px;
+		background-image: url("../image/bg-banner.png");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.container {
+		margin: 0 auto;
+		/* Center it */
+	}
+
+	.container .content {
+		height: 20vh;
+		min-height: 450px;
+		position: absolute;
+		margin: 0 auto;
+		left: 0;
+		background: rgb(0, 0, 0);
+		/* Fallback color */
+		background: rgba(0, 0, 0, 0.7);
+		/* Black background with 0.5 opacity */
+		color: #f1f1f1;
+		width: 100%;
+	}
+
+	.title {
+		font-family: "Montserrat", Sans-serif;
+		color: #ffffff;
+		font-weight: bold;
+		line-height: 1;
+	}
+
+	.title-black {
+		font-family: "Montserrat", Sans-serif;
+		color: #000;
+		font-weight: bold;
+		line-height: 1;
+	}
+
+	.title-grey {
+		font-family: "Montserrat", Sans-serif;
+		color: #4c4c4c;
+		font-weight: bold;
+		line-height: 1;
+	}
+
+	.sub-title {
+		font-family: "Montserrat", Sans-serif;
+		color: #ffffff;
+		font-weight: bold;
+	}
+
+	.sub-title-black {
+		font-family: "Montserrat", Sans-serif;
+		color: #000;
+		font-weight: bold;
+	}
+
+	.sub-title-grey {
+		font-family: "Montserrat", Sans-serif;
+		color: #4c4c4c;
+		font-weight: bold;
+	}
+
+	.spacer {
+		min-height: 100px;
+	}
+
+	#title-section-1 {
+		margin-top: -30px;
+		font-size: 30px;
+		line-height: 1;
+		padding: 20px;
+	}
+
+	#sub-title-section-1 {
+		font-size: 14px;
+	}
+
+	.banner-2 {
+		height: auto;
+		background-image: url("../image/bg-section-1.jpg");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	#wa-section-2 {
+		color: #fced35;
+		font-family: "Roboto", Sans-serif;
+		font-weight: 600;
+		font-size: 30px;
+	}
+
+	#col-section-2-1 {
+		margin-top: 30px;
+	}
+
+	#col-section-2-2,
+	#col-section-2-3 {
+		margin-top: 50px;
+	}
+
+	#title-section-2 {
+		margin-top: 30px;
+		font-size: 22px;
+		line-height: 1;
+		padding: 20px;
+	}
+
+	#sub-title-section-2 {
+		margin-top: 20px;
+		font-size: 22px;
+	}
+
+	#font-1-section-2-3 {
+		color: #ffffff;
+		font-family: "Poppins", Sans-serif;
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 1.8em;
+		margin-bottom: 40px;
+	}
+
+	#font-2-section-2-3 {
+		color: #ffff00;
+		font-family: "Poppins", Sans-serif;
+		font-size: 22px;
+		letter-spacing: -1.3px;
+	}
+
+	#font-3-section-2-3 {
+		color: #ffffff;
+		font-family: "Poppins", Sans-serif;
+		font-size: 23px;
+		letter-spacing: -1.3px;
+		margin-top: 10px;
+	}
+
+	#btn-section-2,
+	#btn-section-4 {
+		width: 100%;
+		margin-top: 30px;
+		font-size: 15px;
+		font-weight: 400;
+		line-height: 1em;
+		letter-spacing: 0.7px;
+		background-color: #61ce70;
+		border-style: solid;
+		border-width: 3px 3px 3px 3px;
+		border-color: #61ce70;
+		border-radius: 5px 5px 5px 5px;
+		padding: 20px 20px 20px 20px;
+	}
+
+	#video-section-2 {
+		width: 300px;
+		height: 200px;
+	}
+
+	#section-3,
+	#section-5 {
+		background-color: #eeeeee;
+	}
+
+	.container-section-3 {
+		background-color: #190101;
+	}
+
+	#content-section-3-1,
+	#content-section-4-1,
+	#content-section-5-1,
+	#content-section-6-1,
+	#content-section-7-1,
+	#content-section-8-1,
+	#content-section-9-1 {
+		margin-top: 40px;
+	}
+
+	#content-section-3-2,
+	#content-section-3-3,
+	#content-section-3-4 {
+		margin-top: 50px;
+	}
+
+	.title-section-3,
+	.title-section-4,
+	.title-section-5 {
+		font-size: 20px;
+	}
+
+	.title-section-4 {
+		line-height: 30px;
+	}
+
+	.icon-cirle {
+		font-size: 100px;
+		fill: #32a000;
+		color: #32a000;
+		border-color: #32a000;
+		background-color: transparent;
+	}
+
+	#sub-title-section-3 {
+		font-size: 17px;
+		font-weight: 300;
+	}
+
+	.paragraf-section-3-1 {
+		font-size: 1.2em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: black;
+	}
+
+	.paragraf-section-3-2,
+	.paragraf-section-3-3 {
+		font-size: 1.2em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: black;
+	}
+
+	.paragraf-section-3-2-1 {
+		font-size: 1.0em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: #7a7a7a;
+	}
+
+	#video-section-3 {
+		width: 300px;
+		height: 200px;
+	}
+
+	#img-section-3-1 {
+		width: 100%;
+	}
+
+	ul.no-bullets {
+		list-style-type: none;
+		/* Remove bullets */
+	}
+
+	#section-4 {
+		background-color: transparent;
+		background-image: linear-gradient(180deg, #222222 0%, #333333 100%);
+	}
+
+	.paragraf-section-4-1 {
+		font-size: 1.2em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: #fff;
+	}
+
+	.paragraf-section-4-2 {
+		font-size: 1.2em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: #fff;
+	}
+
+	.paragraf-section-4-3 {
+		font-size: 1.2em;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: rgba(255, 255, 255, 0.75);
+	}
+
+	#img-section-4-1,
+	#img-section-5-1,
+	#img-section-5-2 {
+		width: 100%;
+	}
+
+	.paragraf-section-5-1 {
+		font-size: 30px;
+		font-family: "Montserrat", Sans-serif;
+		line-height: 1.5;
+		color: #000;
+	}
+
+	#section-6 {
+		background-color: #0d3235;
+	}
+
+	.paragraf-section-6-1 {
+		font-size: 30px;
+		font-family: "Poppins", Sans-serif;
+		line-height: 1.5;
+		color: #fff;
+	}
+
+	.paragraf-section-6-2 {
+		font-size: 30px;
+		font-family: "Poppins", Sans-serif;
+		line-height: 1.5;
+		color: #F8F064;
+	}
+
+	#section-7,
+	#section-8,
+	#section-9 {
+		background-color: #fff;
+	}
+
+	#section-8{
+		margin-bottom: 130px;
+	}
+
+	.img-license {
+		width: 30%;
+	}
+
+	#btn-section-9 {
+		margin-top: 30px;
+		font-size: 18px;
+		font-weight: 400;
+		line-height: 1em;
+		letter-spacing: 0.7px;
+		background-color: #EB0707;
+		border-style: solid;
+		border-width: 3px 3px 3px 3px;
+		border-color: #EB0707;
+		border-radius: 5px 5px 5px 5px;
+		padding: 20px 20px 20px 20px;
+	}
+
+	#btn-back-to-top {
+		display: none;
+		/* Hidden by default */
+		position: fixed;
+		/* Fixed/sticky position */
+		bottom: 20px;
+		/* Place the button at the bottom of the page */
+		right: 30px;
+		/* Place the button 30px from the right */
+		z-index: 99;
+		/* Make sure it does not overlap */
+		border: none;
+		/* Remove borders */
+		outline: none;
+		/* Remove outline */
+		background-color: #555;
+		/* Set a background color */
+		color: white;
+		/* Text color */
+		cursor: pointer;
+		/* Add a mouse pointer on hover */
+		padding: 15px;
+		/* Some padding */
+		border-radius: 10px;
+		/* Rounded corners */
+		font-size: 18px;
+		/* Increase font size */
+	}
+}
